@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recuperatorio.POO.Ejercicio3.Entidades", "Recuperatorio.POO.Ejercicio3.Entidades\Recuperatorio.POO.Ejercicio3.Entidades.csproj", "{95AE3308-6865-4CD9-9918-F347A573F666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recuperatorio.POO.Ejercicio3.Consola", "Recuperatorio.POO.Ejercicio3.Consola\Recuperatorio.POO.Ejercicio3.Consola.csproj", "{620F141C-568B-45A6-95C2-EE663F54256B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95AE3308-6865-4CD9-9918-F347A573F666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95AE3308-6865-4CD9-9918-F347A573F666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95AE3308-6865-4CD9-9918-F347A573F666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95AE3308-6865-4CD9-9918-F347A573F666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{620F141C-568B-45A6-95C2-EE663F54256B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620F141C-568B-45A6-95C2-EE663F54256B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620F141C-568B-45A6-95C2-EE663F54256B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620F141C-568B-45A6-95C2-EE663F54256B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60C758E6-EE75-4FB3-9696-D4B8E601E697}
+	EndGlobalSection
+EndGlobal
